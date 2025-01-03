@@ -1,5 +1,6 @@
 durchzuführen: effectuer, réaliser, mener
 barmherzlich: misércordieux, chaleureux
+nachsichtig: clément
 überwältigt: accablé, submergé, dépassé
 überwinden: surmonter
 prekär: précaire
@@ -161,7 +162,7 @@ verachten: mépriser
 einen Durchhänger haben: keine Energie haben, lust und kraftlos sein
 schrumpfen: kleiner wirden
 schwinden:dwindle, diminuer
-Zwietracht (die):  Unenigkeit, der Streit
+Zwietracht (die):  Uneinigkeit, der Streit
 polieren: peaufiner
 gammeln: faulenzen, sich flach hinlegen
 herablassend, herabwürdigend (herablassen, herabwürdigen): condescendant
@@ -212,3 +213,11 @@ ungebeten: sans invitation, sans y être invité
 Gewöhnungsbedürftig: beschreibt etwas, an das man sich erst gewöhnen muss. Décrit quelque chose qui nécessite du temps pour s'y habituer.
 reibungslos: sans frottement (sans problèmes)
 Anmut (die): die Gnade. Sie bewegte sich mit müheloser Anmut durch das Wasser
+Anhänglichkeit: Dévotion, attachment, Hingabe
+im Nachhinein: im Rückblick
+ausgestreckt: étendu
+weitläufig: spacieux
+aufdringlich: nicht diskret, intrusif
+draufgängerisch: kühn, audace
+unverfroren: schamlos, sans vergogne
+sich etwas (eine Bemerkung, einen Kommentar) verkneifen: s'abstenir de dire quelquechose
