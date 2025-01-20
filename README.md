@@ -326,3 +326,21 @@ hartnäckig: 1. beharrlich, anhaltend, ausdauernd, 2. stur \
 störrisch: eigenwillig (headstrong), stur, widerspenstig (unruly) \
 beständig: résistant \
 heuchler(isch), die Heuchelei: hypocrite, hypocrisie \
+abfangen: intercepter \
+abhören: heimlich lauschen \
+sich Gehör verschaffen: se faire entendre, make oneself heard. Alle relevanten Akteure sollten sich Gehör verschaffen können \
+sich auf etwas einlassen: sich zu etwas verpflichten \ 
+davonkommen: get away with something, entkommen, entgehen, wegkommen, échapper \
+ertappen: auffangen. Jmdn. bei einem Diebstahl ertappen.  Jmdn. bei einer Lüge, Unwahrheit ertappen. Er wurde dabei ertappt, als er ein Auto aufbrach. Er stand da wie ein ertappter Sünder \
+argwöhnisch: verdächtig, De manière suspecte \
+lässig: désinvolte, casual \
+runterkommen: sich beruhigen \
+hinterherkommen: keep up, follow \
+festbinden: fesseln, ficeler \
+Nach Luft schnappen: sich verpusten. Am Ufer der Schelde kann man herrlich frische Luft schnappen, sich verpusten. \
+Mit jmdm gut zurechtkommen: get along. Ich werde gut mit ihm zurechtkommen \
+Die Augen verdrehen: roll back the eyes, les yeux au ciel \
+verschweigen: se taire. Es gibt keine Tatsachen, die man seinem Rechtsanwalt verschweigen sollte. Und dass ich mir Sorgen mache, muss ich nicht verschweigen. \
+verschleiern: verdecken, verheimlichen (make secret), vertuschen (cover up) \
+umringen: umschließen, umgeben, umfassen, encercler. Macht annehmend, umringen sie das Land. Die Eltern umringen ihre Kinder, um sie vor der Menge zu schützen. \
+klebrig: collant, sticky
