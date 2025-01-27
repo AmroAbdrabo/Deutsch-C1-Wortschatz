@@ -334,7 +334,7 @@ davonkommen: get away with something, entkommen, entgehen, wegkommen, échapper 
 ertappen: auffangen. Jmdn. bei einem Diebstahl ertappen.  Jmdn. bei einer Lüge, Unwahrheit ertappen. Er wurde dabei ertappt, als er ein Auto aufbrach. Er stand da wie ein ertappter Sünder \
 argwöhnisch: verdächtig, De manière suspecte \
 lässig: désinvolte, casual \
-runterkommen: sich beruhigen \
+runterkommen: sich fassen, sich beruhigen \
 hinterherkommen: keep up, follow \
 festbinden: fesseln, ficeler \
 Nach Luft schnappen: sich verpusten. Am Ufer der Schelde kann man herrlich frische Luft schnappen, sich verpusten. \
@@ -343,4 +343,31 @@ Die Augen verdrehen: roll back the eyes, les yeux au ciel \
 verschweigen: se taire. Es gibt keine Tatsachen, die man seinem Rechtsanwalt verschweigen sollte. Und dass ich mir Sorgen mache, muss ich nicht verschweigen. \
 verschleiern: verdecken, verheimlichen (make secret), vertuschen (cover up) \
 umringen: umschließen, umgeben, umfassen, encercler. Macht annehmend, umringen sie das Land. Die Eltern umringen ihre Kinder, um sie vor der Menge zu schützen. \
-klebrig: collant, sticky
+klebrig: collant, sticky \
+sich mit jemandem anlegen: einem Konflikt nicht ausweichen \
+veranschaulichen: zeigen, erläutern, verdeutlichen \
+anstupsen: donner qqn un coup de coude \
+ausdehnen (die Ausdehnung): erweitern, strecken, étendre \
+eingehend: ausführlich, gründlich, minutiös, détaillé \
+ein Risiko eingehen: prendre un risque \
+umständlich: mühsam, mühselig, gênant \
+verabreden: einen Termin vereinbaren, fixer un rendez-vous  \
+verabreichen: verwalten, führen, administrer, gérer \
+unterstellen: versteckt andeuten, sous entendre, insinuer \
+schnäuzen: se moucher \
+erdichten: ersinnen, fingieren, fabriquer, inventer \
+Verzierungen (verzieren): décorer \
+mustern: prüfen, begutachten, examiner \
+spöttisch: spottend, höhnisch, verächtlich \
+huschen: hasten, wuzeln, se précipiter \
+sperrig: schwerfällig, encombrant \
+hintenrum:  
+schwelgen: 
+verschlingen: 
+vergüten: belohnen, bezahlen, kompensieren, entschädigen \
+panschen: verderben, verfälschen, dénaturer, frelater \
+übertariflich: 
+erlösen: 
+zittrig: wackelig \
+unüberschaubar:
+ernennen: 
