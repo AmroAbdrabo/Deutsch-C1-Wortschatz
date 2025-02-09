@@ -291,7 +291,7 @@ unterschlagen: retenir des informations, ne pas les laisser publiées \
 Jmd (dat.) übel nehmen: blâmer qqn. Niemand wird dir übel nehmen \
 beseitigen: éliminer, vernichten \
 aufwändig, aufwendig: verschnörkelt, Komplex, complexe, orné. Die Masken im Handel sind aufwändiger geschnitzt \
-Wasserplätschern, Knirchen, Knarren, Knallen, Quietschen: éclaboussure d'eau, son croquant (marcher sur pierres par exemple), Craquement, éclat ou claquement (d'une porte par exemple), grincement (squeak) \
+Wasserplätschern, Knirchen, Knarren, Prasseln, Knallen, Quietschen: éclaboussure d'eau, son croquant (marcher sur pierres par exemple), Craquement, éclat ou claquement (d'une porte par exemple), grincement (squeak) \
 unentwirrbar ineinander verwickeln: inextricablement mêlés les uns aux autres \
 Unartig: Méchant, vilain \
 dahingestellt: unentschieden \
@@ -361,13 +361,28 @@ mustern: prüfen, begutachten, examiner \
 spöttisch: spottend, höhnisch, verächtlich \
 huschen: hasten, wuzeln, se précipiter \
 sperrig: schwerfällig, encombrant \
-hintenrum:  
-schwelgen: 
-verschlingen: 
+hintenrum: en catimini, en douce \
+schwelgen: erfreuen, ergötzen, se délecter, se complaire, savourer \
+verschlingen: schlucken, dévorer, engloutir, avaler\
 vergüten: belohnen, bezahlen, kompensieren, entschädigen \
 panschen: verderben, verfälschen, dénaturer, frelater \
-übertariflich: 
-erlösen: 
+übertariflich: au-dessus des tarifs\ 
+erlösen: redeem, retten, racheter \
 zittrig: wackelig \
-unüberschaubar:
-ernennen: 
+unüberschaubar: ingérable \
+ernennen: nominieren, nommer (qqn à un poste) \
+ansehnlich: attraktiv, ​gut aussehend, stattlich, attrayant, attirant \
+Kiefern (die): les pins \
+einverleiben: einbauen, intégrer \ 
+zulänglich: ausreichend, genügend, adéquat, suffisant \
+belanglos: unerheblich, nebensächlich, hors de propos \
+schlammig: matschig, boueux\
+morastig: sumpfig, matschig \
+umsiedeln (die Umsiedlung): réinstaller \
+verschwurbeln:  \
+aushorchen: lauschen, ausspionieren, espionner \
+anheften:  anhängen, ankoppeln\
+anhäufen: \
+hegen: \
+trödeln: \
+das Fass zum Überlaufen bringen: faire déborder le vase
