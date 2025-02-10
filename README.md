@@ -376,13 +376,20 @@ Kiefern (die): les pins \
 einverleiben: einbauen, intégrer \ 
 zulänglich: ausreichend, genügend, adéquat, suffisant \
 belanglos: unerheblich, nebensächlich, hors de propos \
-schlammig: matschig, boueux\
+schlammig: matschig, boueux \
 morastig: sumpfig, matschig \
 umsiedeln (die Umsiedlung): réinstaller \
-verschwurbeln:  \
+verschwurbelt: unnötig kompliziert  \
 aushorchen: lauschen, ausspionieren, espionner \
-anheften:  anhängen, ankoppeln\
-anhäufen: \
-hegen: \
-trödeln: \
-das Fass zum Überlaufen bringen: faire déborder le vase
+anheften:  anhängen, ankoppeln \
+anhäufen: etw. aufspeichern, zusammentragen. Die Arbeit häuft sich immer mehr an. \
+hegen: etw. schützen und pflegen \
+trödeln: Eine Tätigkeit in langsamem Tempo, nicht konzentriert ausführen. Langsam, ohne Eile gehen. \
+das Fass zum Überlaufen bringen: faire déborder le vase \
+Hauch (der): der Atem, le souffle \
+einschneidend: durchgreifend, weitreichend \
+Weide (die): le pâturage \
+wittern: riechen, spüren \
+verknappen (Verknappung): 
+vorahnen (Vorahnung): présager \
+abgeneigt: nicht geneigt. Abneigung: leichter Widerwille, Aversion (in gegensätzlicher Bedeutung zu Zuneigung) \
