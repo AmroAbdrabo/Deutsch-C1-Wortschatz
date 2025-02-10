@@ -390,6 +390,6 @@ Hauch (der): der Atem, le souffle \
 einschneidend: durchgreifend, weitreichend \
 Weide (die): le pâturage \
 wittern: riechen, spüren \
-verknappen (Verknappung): 
+verknappen (Verknappung): rendre qqch rare \
 vorahnen (Vorahnung): présager \
 abgeneigt: nicht geneigt. Abneigung: leichter Widerwille, Aversion (in gegensätzlicher Bedeutung zu Zuneigung) \
