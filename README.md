@@ -366,7 +366,7 @@ schwelgen: erfreuen, ergötzen, se délecter, se complaire, savourer \
 verschlingen: schlucken, dévorer, engloutir, avaler\
 vergüten: belohnen, bezahlen, kompensieren, entschädigen \
 panschen: verderben, verfälschen, dénaturer, frelater \
-übertariflich: au-dessus des tarifs\ 
+übertariflich: au-dessus des tarifs \
 erlösen: redeem, retten, racheter \
 zittrig: wackelig \
 unüberschaubar: ingérable \
@@ -393,3 +393,7 @@ wittern: riechen, spüren \
 verknappen (Verknappung): rendre qqch rare \
 vorahnen (Vorahnung): présager \
 abgeneigt: nicht geneigt. Abneigung: leichter Widerwille, Aversion (in gegensätzlicher Bedeutung zu Zuneigung) \
+einspringen: intervenir pour qqn. Sie sprang jedesmal, immer wieder, schnell, helfend ein \
+marode: délabré, baufällig, veraltet, verrostet \
+zerrauft: zerzaust, ébouriffé, disheveled \
+zerknittern: zerknauschen, krumpeln, chiffonner, froisser
