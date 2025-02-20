@@ -397,3 +397,16 @@ einspringen: intervenir pour qqn. Sie sprang jedesmal, immer wieder, schnell, he
 marode: délabré, baufällig, veraltet, verrostet \
 zerrauft: zerzaust, ébouriffé, disheveled \
 zerknittern: zerknauschen, krumpeln, chiffonner, froisser
+abblitzen: eine Absage/Abfuhr bekommen \
+zerschmettern: zerschlagen, zerbrechen, écraser, détruire \
+züchtigen: disziplinieren, geißeln, châtier \
+launig: humorvoll, lustig, spaßhaft \ 
+schräge: oblique \
+Zaghaft: timidement \
+horchen: écouter \
+kläglich: erbärmlich, elend, jämmerlich \
+aufschlüsseln: aufgliedern, abbauen, einordnen \
+Wankend: schwankend, vacillant \
+vernehmen: entendre \
+Wimmern: whimper, gémissement \
+tosend: thunderous, tonitruant (décrit tonnerre) \ 
