@@ -410,3 +410,4 @@ Wankend: schwankend, vacillant \
 vernehmen: entendre \
 Wimmern: whimper, gémissement \
 tosend: thunderous, tonitruant (décrit tonnerre) \ 
+auflegen: raccrocher, hang up \
