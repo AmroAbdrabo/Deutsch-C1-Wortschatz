@@ -285,7 +285,7 @@ Ganz gelegen kommen: come in handy. Wenn man es so sieht, kommt mir die Leiche a
 ersäufen: ertrinken, noyer \
 Ausgerechnet: Of all (things, days, people, etc.) \
 nachträglich: rétrospectivement \
-quälen: foltern \
+quälen: foltern, torturer \
 einläuten: usher in, introduire \
 unterschlagen: retenir des informations, ne pas les laisser publiées \
 Jmd (dat.) übel nehmen: blâmer qqn. Niemand wird dir übel nehmen \
@@ -411,3 +411,19 @@ vernehmen: entendre \
 Wimmern: whimper, gémissement \
 tosend: thunderous, tonitruant (décrit tonnerre) \ 
 auflegen: raccrocher, hang up \
+verklemmt: nervös, verkrampft, crispé, guindé \
+veruntreut: unterschlagen, détourné \
+untermauern: étayer \ 
+verstohlen: heimlich, furtivement \ 
+Heiligenschein (der): auréole \ 
+sich aufzurappeln: pull oneself together \
+hügelig: vallonné, collinaire \
+unausstehlich: unerträglich, insupportable, widerlich \
+abschweifen: digress, s'écarter, faire une digression \
+aufbrausend: plötzlich brausend emporsteigen, zornig auffahren, colérique \
+ungeheuerlich: empörend, unverschämt, scandaleux, atroce \
+ungeheuer: außergewöhnlich groß, riesig, gewaltig in der Ausdehnung \
+aus der Luft gegriffen: made up, inventé, fabriqué \
+geschweige denn: sans parler de \
+behutsam: avec prudence \
+auf etwas anspielen: se référer à quelque chose \
