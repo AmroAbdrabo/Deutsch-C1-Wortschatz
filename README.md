@@ -373,7 +373,7 @@ unüberschaubar: ingérable \
 ernennen: nominieren, nommer (qqn à un poste) \
 ansehnlich: attraktiv, ​gut aussehend, stattlich, attrayant, attirant \
 Kiefern (die): les pins \
-einverleiben: einbauen, intégrer \ 
+einverleiben: einbauen, intégrer \
 zulänglich: ausreichend, genügend, adéquat, suffisant \
 belanglos: unerheblich, nebensächlich, hors de propos \
 schlammig: matschig, boueux \
@@ -400,7 +400,7 @@ zerknittern: zerknauschen, krumpeln, chiffonner, froisser
 abblitzen: eine Absage/Abfuhr bekommen \
 zerschmettern: zerschlagen, zerbrechen, écraser, détruire \
 züchtigen: disziplinieren, geißeln, châtier \
-launig: humorvoll, lustig, spaßhaft \ 
+launig: humorvoll, lustig, spaßhaft \
 schräge: oblique \
 Zaghaft: timidement \
 horchen: écouter \
@@ -409,14 +409,14 @@ aufschlüsseln: aufgliedern, abbauen, einordnen \
 Wankend: schwankend, vacillant \
 vernehmen: entendre \
 Wimmern: whimper, gémissement \
-tosend: thunderous, tonitruant (décrit tonnerre) \ 
+tosend: thunderous, tonitruant (décrit tonnerre) \
 auflegen: raccrocher, hang up \
 verklemmt: nervös, verkrampft, crispé, guindé \
 veruntreut: unterschlagen, détourné \
-untermauern: étayer \ 
-verstohlen: heimlich, furtivement \ 
-Heiligenschein (der): auréole \ 
-sich aufzurappeln: pull oneself together \
+untermauern: étayer \
+verstohlen: heimlich, furtivement \
+Heiligenschein (der): auréole \
+sich aufzurappeln: se ressaisir, pull oneself together \
 hügelig: vallonné, collinaire \
 unausstehlich: unerträglich, insupportable, widerlich \
 abschweifen: digress, s'écarter, faire une digression \
@@ -426,4 +426,7 @@ ungeheuer: außergewöhnlich groß, riesig, gewaltig in der Ausdehnung \
 aus der Luft gegriffen: made up, inventé, fabriqué \
 geschweige denn: sans parler de \
 behutsam: avec prudence \
-auf etwas anspielen: se référer à quelque chose \
+tadellos: einwandfrei, impeccable \
+hinnehmen: akzeptieren, dulden, tolérer, accepter \
+prachtvollen: sehr schön im Aussehen, magnifique \
+auf etwas anspielen: se référer à quelque chose
