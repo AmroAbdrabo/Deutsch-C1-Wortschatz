@@ -429,4 +429,7 @@ behutsam: avec prudence \
 tadellos: einwandfrei, impeccable \
 hinnehmen: akzeptieren, dulden, tolérer, accepter \
 prachtvollen: sehr schön im Aussehen, magnifique \
-auf etwas anspielen: se référer à quelque chose
+auf etwas anspielen: se référer à quelque chose \
+ereignen: sich begeben, sich zutragen, vor sich gehen.  Wie die Fluggesellschaft der Nachrichtenagentur mitteilte, ereignete sich der Computer-Ausfall am Sonntagabend. In seiner Abwesenheit hatte sich nichts Besonderes, Außergewöhnliches ereignet  \
+Zwischenfall (der): Ereignis, das (störend) zwischen etw. tritt, das den Fortgang eines Geschehens, einer Handlung beeinflusst, oft behindert. Die begebenheit (synonym). \
+Schwung: schnelle, regelmäßige Bewegung, Pendelbewegung
