@@ -329,7 +329,7 @@ heuchler(isch), die Heuchelei: hypocrite, hypocrisie \
 abfangen: intercepter \
 abhören: heimlich lauschen \
 sich Gehör verschaffen: se faire entendre, make oneself heard. Alle relevanten Akteure sollten sich Gehör verschaffen können \
-sich auf etwas einlassen: sich zu etwas verpflichten \ 
+sich auf etwas einlassen: sich zu etwas verpflichten \
 davonkommen: get away with something, entkommen, entgehen, wegkommen, échapper \
 ertappen: auffangen. Jmdn. bei einem Diebstahl ertappen.  Jmdn. bei einer Lüge, Unwahrheit ertappen. Er wurde dabei ertappt, als er ein Auto aufbrach. Er stand da wie ein ertappter Sünder \
 argwöhnisch: verdächtig, De manière suspecte \
@@ -435,4 +435,13 @@ Zwischenfall (der): Ereignis, das (störend) zwischen etw. tritt, das den Fortga
 Schwung: schnelle, regelmäßige Bewegung, Pendelbewegung \
 Gastgewerbe (die): Industrie hôtelière \
 Vorstoß (der):  Angriff, offensives Vorgehen. Energisches Vordringen. (b) übertragen ⟨(bei jmdm., einer Behörde) einen Vorstoß unternehmen (= sich mit einem Gesuch, Anliegen (an jmdn., eine Behörde) wenden) \
-buhlen: sich um etw. schmeichlerisch bewerben. um die Gunst der Massen, Beifall, Mitleid, die Anerkennung der Kritiker, des Publikums buhlen
+buhlen: chercher à gagner le faveur de qqn ou qqch, courtiser, sich um etw. schmeichlerisch bewerben. um die Gunst der Massen, Beifall, Mitleid, die Anerkennung der Kritiker, des Publikums buhlen \
+ausreissen: abhauen \
+grässlich: unangenehm, schrecklich. in hohem Maße unangenehm, heftigen Widerwillen hervorrufend, verursachend. \
+Veranlagt: prädisponiert, anfällig, geneigt \
+Gedankengang (der): Folge von Überlegungen, fil de pensées \
+Stichhaltig: überzeugend, wohlbegründet, nicht widerlegbar (pas réfutable), valable, juste, défendable. Eine Begründung, die sich als nicht stichhaltig erwies \
+Wortgewandt: Éloquent \
+unterfangen: es wagen, etw. Schwieriges in Angriff zu nehmen. er hat sich unterfangen, die schwierige Aufgabe zu lösen. Das Unterfangen: une lutte acharnée \
+schmarotzen: nicht arbeiten, sondern von der Arbeit anderer, auf Kosten anderer leben. parasiter, vivre aux crochets de quelqu'un \
+sich verschulden: s'endetter
