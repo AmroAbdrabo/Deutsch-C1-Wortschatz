@@ -432,4 +432,7 @@ prachtvollen: sehr schön im Aussehen, magnifique \
 auf etwas anspielen: se référer à quelque chose \
 ereignen: sich begeben, sich zutragen, vor sich gehen.  Wie die Fluggesellschaft der Nachrichtenagentur mitteilte, ereignete sich der Computer-Ausfall am Sonntagabend. In seiner Abwesenheit hatte sich nichts Besonderes, Außergewöhnliches ereignet  \
 Zwischenfall (der): Ereignis, das (störend) zwischen etw. tritt, das den Fortgang eines Geschehens, einer Handlung beeinflusst, oft behindert. Die begebenheit (synonym). \
-Schwung: schnelle, regelmäßige Bewegung, Pendelbewegung
+Schwung: schnelle, regelmäßige Bewegung, Pendelbewegung \
+Gastgewerbe (die): Industrie hôtelière \
+Vorstoß (der):  Angriff, offensives Vorgehen. Energisches Vordringen. (b) übertragen ⟨(bei jmdm., einer Behörde) einen Vorstoß unternehmen (= sich mit einem Gesuch, Anliegen (an jmdn., eine Behörde) wenden) \
+buhlen: sich um etw. schmeichlerisch bewerben. um die Gunst der Massen, Beifall, Mitleid, die Anerkennung der Kritiker, des Publikums buhlen
