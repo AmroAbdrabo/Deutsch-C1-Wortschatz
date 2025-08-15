@@ -444,4 +444,19 @@ Stichhaltig: überzeugend, wohlbegründet, nicht widerlegbar (pas réfutable), v
 Wortgewandt: Éloquent \
 unterfangen: es wagen, etw. Schwieriges in Angriff zu nehmen. er hat sich unterfangen, die schwierige Aufgabe zu lösen. Das Unterfangen: une lutte acharnée \
 schmarotzen: nicht arbeiten, sondern von der Arbeit anderer, auf Kosten anderer leben. parasiter, vivre aux crochets de quelqu'un \
-sich verschulden: s'endetter
+sich verschulden: s'endetter \
+dünnhäutig: empfindsam, sensibel, sensible \
+abstoßend: Antipathie, Abscheu, Ekel oder Widerwillen auslösend, ekelerregend \
+kitzeln: chatouiller, tickle \
+vergelten: (im Guten oder Schlechten) zurückgeben, erwidern, beantworten; (mit etw.) danken, sich (mit, durch etw.) erkenntlich zeigen oder (mit, durch etw.) heimzahlen. er hat ihre Liebe mit Undank vergolten.
+so gering vergiltst du meine Mühe? \
+Räumungsklage (die): la procédure d'expulsion. Eviction procedure. \
+Diskrepanz (die): Missverhältnis, Unstimmigkeit zwischen zwei Sachen. La divergence, l'écart. Die Diskrepanz zwischen Denken und Tun, zwischen Wunsch und Wirklichkeit \
+inständig: eindringlich, sehr nachdrücklich, flehentlich. eine inständige Bitte, ein inständiges Werben. Instamment, d'une manière instante, avec insistance. \
+entfallen: 1. ⟨etw. entfällt jmdm.⟩etw. fällt jmdm. aus den Händen. vor Schreck entfiel ihr der Brief 2. etw. schwindet jmdm. aus dem Gedächtnis. Der Name ist mir leider entfallen. 3. etw. wird jmdm., einer Sache zugeteilt, kommt (bei einer Teilung als Anteil) auf jmdn., etwas. \
+abgedroschen: so oft gebraucht, dass es inhaltlich leer ist, keine Aussagekraft mehr hat. Banal \
+Vorgabe (die): im Voraus getroffene Festlegung, die als Richtlinie, Richtmaß dienen soll. Er muss sich bei seiner Untersuchung an bestimmte Vorgaben halten. Vorgeben: 1. etw. im Voraus bestimmen, festlegen (und jmdm. als Richtlinie, Richtmaß geben), 2. etw. Unwahres, Unglaubhaftes behaupten, etw. vortäuschen \
+Vorbehalt (der): unter bestimmten Umständen geltend gemachte Einschränkung, auf Bedenken, teilweise abweichenden Auffassungen beruhende innere Zurückhaltung. Er hatte weitgehende, kritische, moralische Vorbehalte  \
+Richtlinie (die): La directive. Anweisung für jemandes Verhalten in bestimmten Fällen. \
+vortäuschen: ⟨jmdm. etw. vortäuschen⟩ jmdm. etw. vorspiegeln, bei jmdm. den Anschein von etw. erwecken. Er täuschte den Schlaf nur vor. Faire semblant, simuler, feindre. \
+verstauchen: sich eine Verstauchung zuziehen, eine Verstauchung am Gelenk bekommen. Ich habe (mir) den Fuß, Knöchel, das Bein, die Hand verstaucht \
