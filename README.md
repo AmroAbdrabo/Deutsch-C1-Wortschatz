@@ -460,3 +460,4 @@ Vorbehalt (der): unter bestimmten Umständen geltend gemachte Einschränkung, au
 Richtlinie (die): La directive. Anweisung für jemandes Verhalten in bestimmten Fällen. \
 vortäuschen: ⟨jmdm. etw. vortäuschen⟩ jmdm. etw. vorspiegeln, bei jmdm. den Anschein von etw. erwecken. Er täuschte den Schlaf nur vor. Faire semblant, simuler, feindre. \
 verstauchen: sich eine Verstauchung zuziehen, eine Verstauchung am Gelenk bekommen. Ich habe (mir) den Fuß, Knöchel, das Bein, die Hand verstaucht \
+Daseinsberechtigung: Existenzberechtigung, raison d'être. \
